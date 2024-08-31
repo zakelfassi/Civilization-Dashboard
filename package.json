@@ -1,7 +1,8 @@
 {
   "name": "civilization-dashboard",
-  "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "An interactive dashboard of historical civilizations and their prosperity, built during a live coding session.",
+  "private": false,
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -33,5 +34,25 @@
     "typescript-eslint": "^8.0.1",
     "vite": "^5.4.1",
     "@types/d3": "^7.4.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zakelfassi/civilization-dashboard.git"
+  },
+  "keywords": [
+    "civilization",
+    "history",
+    "timeline",
+    "react",
+    "typescript",
+    "d3",
+    "vite",
+    "ai"
+  ],
+  "author": "Zak El Fassi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zakelfassi/civilization-dashboard/issues"
+  },
+  "homepage": "https://github.com/zakelfassi/civilization-dashboard#readme"
 }
