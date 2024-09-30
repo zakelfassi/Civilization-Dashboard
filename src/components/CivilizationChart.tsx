@@ -277,14 +277,14 @@ const CivilizationChart: React.FC<CivilizationChartProps> = ({ data }) => {
         .data(calendarTypes)
         .enter()
         .append("g")
-        .attr("transform", (d, i) => `translate(0,${i * 20})`);
+        .attr("transform", (_, i) => `translate(0,${i * 20})`);
 
       legend
         .append("rect")
         .attr("x", 0)
         .attr("width", 19)
         .attr("height", 19)
-        .attr("fill", (d, i) => `url(#pattern-${i})`)
+        .attr("fill", (_, i) => `url(#pattern-${i})`)
         .attr("stroke", "#000")
         .attr("stroke-width", 0.5);
 
@@ -306,7 +306,7 @@ const CivilizationChart: React.FC<CivilizationChartProps> = ({ data }) => {
         .data(Array.from(civilizationGroups.keys()))
         .enter()
         .append("g")
-        .attr("transform", (d, i) => `translate(0,${i * 20})`);
+        .attr("transform", (_, i) => `translate(0,${i * 20})`);
 
       lineLegend
         .append("line")
