@@ -4,6 +4,12 @@
 
 Civilization Dashboard is an interactive web application that visualizes the prosperity and historical timelines of various civilizations. Built with React, TypeScript, and Vite, it leverages D3.js for dynamic data visualization, providing users with insightful and engaging representations of historical data. This project is part of a larger exploration into the nature of time and its cyclicality, aiming to uncover patterns and rhythms across different civilizations throughout history.
 
+You can experience and interact with the app at: https://civilization-dashboard.pages.dev/
+
+## Note on Data Provenance
+
+The data used in this application is generated using state-of-the-art Large Language Models (LLMs) connected to the internet to gather facts. When interacting with the app, users should be aware that they are navigating the LLMs' view of the world. This approach provides a unique perspective on historical data, but it's important to note that the information may not always align perfectly with traditional historical records. We plan to integrate different, more conventional datasets in future updates.
+
 ## Features
 
 - **Interactive Visualization**: Explore the prosperity scores and timelines of different civilizations through dynamic charts.
@@ -189,4 +195,5 @@ This project is licensed under the [MIT License](LICENSE).
 - **Author**: Zak El Fassi
 - **GitHub**: [zakelfassi](https://github.com/zakelfassi)
 - **Repository**: [civilization-dashboard](https://github.com/zakelfassi/civilization-dashboard)
+
 # Civilization-Dashboard
