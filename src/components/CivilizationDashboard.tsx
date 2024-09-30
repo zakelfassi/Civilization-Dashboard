@@ -17,6 +17,7 @@ const CivilizationDashboard: React.FC = () => {
           header: true,
           dynamicTyping: true,
           skipEmptyLines: true,
+          delimiter: ",",
           complete: (results) => {
             if (results.errors.length > 0) {
               setError(
@@ -25,7 +26,16 @@ const CivilizationDashboard: React.FC = () => {
                   .join(", ")}`
               );
             } else {
-              setCivilizations(results.data);
+              const expectedFields = Object.keys(results.data[0]).length;
+              const validData = results.data.filter(
+                (row) => Object.keys(row).length === expectedFields
+              );
+              if (validData.length !== results.data.length) {
+                setError(
+                  "Some rows have an incorrect number of fields and were skipped."
+                );
+              }
+              setCivilizations(validData);
             }
           },
           error: (error: { message: string }) => {
