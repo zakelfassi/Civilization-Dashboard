@@ -1,84 +1,84 @@
 Civilization,Calendar System,Calendar Type,Start Date,End Date,Historical Period,Prosperity Score,Key Events,Relative Time Since T0 (years)
-Western Europe,Gregorian,Solar,476,800,Early Middle Ages,-3,"Fall of Western Roman Empire (476), Founding of Frankish Kingdom (481), Battle of Tours (732)",-2210
-Western Europe,Gregorian,Solar,800,1200,High Middle Ages,3,"Coronation of Charlemagne (800), First Crusade (1095), Magna Carta (1215)",-1886
-Western Europe,Gregorian,Solar,1200,1500,Late Middle Ages,2,"Black Death (1347-1351), Hundred Years' War (1337-1453), Fall of Constantinople (1453)",-1439
-Western Europe,Gregorian,Solar,1500,1800,Early Modern Period,4,"Renaissance (1400-1600), Protestant Reformation (1517), Scientific Revolution (1543-1687)",-1139
-Western Europe,Gregorian,Solar,1800,2024,Modern Period,5,"Industrial Revolution (1760-1840), World Wars (1914-1945), European Union formation (1993)",4710
-Mayan,Long Count,Solar,250,900,Classical Period,4,"Construction of Tikal (250-900), Peak of Mayan astronomy and mathematics (500-800), Development of complex writing system (300-900)",-2436
-Mayan,Long Count,Solar,900,1000,Post-Classical Period,-4,"Abandonment of major cities (800-900), Collapse of Classic Maya civilization (900), Chichen Itza becomes dominant power (987)",-1786
-Mayan,Long Count,Solar,1000,1697,Post-Classic Period,2,"Rise of new city-states (1000-1200), Spanish conquest begins (1519), Fall of last Mayan city-state Nojpetén (1697)",-1686
-Chinese,Traditional,Lunisolar,220,589,Period of Disunity,-2,"Fall of Han Dynasty (220), Invention of kites (549), Construction of Yungang Grottoes (460-494)",-2466
-Chinese,Traditional,Lunisolar,589,907,Tang Dynasty,4,"Founding of Tang Dynasty (618), Invention of woodblock printing (700), An Lushan Rebellion (755-763)",-2097
-Chinese,Traditional,Lunisolar,907,1368,Song to Yuan Dynasties,3,"Invention of gunpowder (850), Neo-Confucian philosophy develops (1000-1200), Mongol conquest of China (1271)",-1779
-Chinese,Traditional,Lunisolar,1368,1912,Ming and Qing Dynasties,4,"Construction of Forbidden City (1406-1420), Zheng He's voyages (1405-1433), Opium Wars (1839-1860)",-1318
-Chinese,Gregorian,Solar,1912,2024,Modern China,3,"Republic of China established (1912), People's Republic of China founded (1949), Economic reforms (1978-present)",4698
-Indian,Vikram Samvat,Lunisolar,300,550,Gupta Empire,5,"Reign of Chandragupta II (380-415), Writing of the Kamasutra (400-450), Invention of decimal system (500)",-2386
-Indian,Vikram Samvat,Lunisolar,550,750,Post-Gupta Period,-2,"Decline of Gupta Empire (550), Rise of regional kingdoms (600-750), Arab invasion of Sindh (712)",-2136
-Indian,Vikram Samvat,Lunisolar,750,1000,Early Medieval Period,2,"Rise of Rajput dynasties (750-1000), Development of Tantric Buddhism (800-900), Construction of Khajuraho temples (950-1050)",-1936
-Indian,Gregorian,Solar,1000,1857,Medieval to Mughal Period,3,"Delhi Sultanate established (1206), Mughal Empire founded (1526), Taj Mahal constructed (1632-1653)",-1686
-Indian,Gregorian,Solar,1857,2024,British Raj to Modern India,4,"Indian Rebellion (1857), Indian Independence (1947), Economic liberalization (1991)",4710
-Islamic World,Hijri,Lunar,750,1258,Islamic Golden Age,5,"House of Wisdom in Baghdad (830), Islamic medical advances (900-1100), Algebra developed by Al-Khwarizmi (820)",-1936
-Islamic World,Hijri,Lunar,1258,1400,Post-Abbasid Period,-3,"Sack of Baghdad by Mongols (1258), Mamluks defeat Mongols at Ain Jalut (1260), Timur's conquests (1370-1405)",-1428
-Islamic World,Hijri,Lunar,1400,1924,Ottoman Caliphate,3,"Fall of Constantinople (1453), Siege of Vienna (1683), Tanzimat reforms (1839-1876)",-1286
-Islamic World,Gregorian,Solar,1924,2024,Modern Islamic World,2,"Abolition of Ottoman Caliphate (1924), Iranian Revolution (1979), Arab Spring (2010-2012)",4710
-Byzantine,Julian,Solar,395,610,Byzantine Renaissance,3,"Reign of Justinian I (527-565), Hagia Sophia constructed (537), Corpus Juris Civilis compiled (529-534)",-2291
-Byzantine,Julian,Solar,610,1453,Gradual Decline,-2,"Battle of Manzikert (1071), Fourth Crusade sacks Constantinople (1204), Fall of Constantinople to Ottomans (1453)",-2076
-Ancient Egypt,Egyptian,Solar,-2686,-2181,Old Kingdom,4,"Great Pyramid of Giza built (2560 BCE), Step Pyramid of Djoser built (2630 BCE), Development of hieroglyphic writing (3200 BCE)",0
-Ancient Egypt,Egyptian,Solar,-2055,-1650,Middle Kingdom,3,"Reunification under Mentuhotep II (2055 BCE), Construction of pyramids at Dahshur (1932-1841 BCE), Development of literature and art",631
-Ancient Egypt,Egyptian,Solar,-1550,-1069,New Kingdom,5,"Reign of Ramesses II (1279-1213 BCE), Battle of Kadesh (1274 BCE), Construction of Abu Simbel temples (1264-1244 BCE)",1136
-Ancient Egypt,Egyptian,Solar,-1069,-332,Late Period,1,"Third Intermediate Period (1069-664 BCE), Persian conquest (525 BCE), Alexander the Great's conquest (332 BCE)",1617
-Mesopotamia,Babylonian,Lunisolar,-2900,-2334,Early Dynastic Period,3,"Invention of writing (3200 BCE), Construction of ziggurats (2900 BCE), Development of city-states (2900-2350 BCE)",-214
-Mesopotamia,Babylonian,Lunisolar,-2334,-2154,Akkadian Empire,4,"Reign of Sargon of Akkad (2334-2279 BCE), First known empire in history, Development of postal system",352
-Mesopotamia,Babylonian,Lunisolar,-626,-539,Neo-Babylonian Empire,4,"Construction of Ishtar Gate (575 BCE), Reign of Nebuchadnezzar II (605-562 BCE), Hanging Gardens of Babylon (600 BCE)",2060
-Mesopotamia,Babylonian,Lunisolar,-539,-331,Persian Period,3,"Cyrus the Great conquers Babylon (539 BCE), Behistun Inscription carved (520-518 BCE), Alexander the Great conquers Persia (331 BCE)",2147
-Persian Empire,Zoroastrian,Solar,-550,-330,Achaemenid Empire,5,"Reign of Cyrus the Great (559-530 BCE), Construction of Persepolis (518 BCE), Royal Road built (500 BCE)",2136
-Persian Empire,Zoroastrian,Solar,-247,224,Parthian Empire,3,"Battle of Carrhae (53 BCE), Development of heavy cavalry, Trade along Silk Road flourishes",2439
-Persian Empire,Zoroastrian,Solar,224,651,Sasanian Empire,4,"Reign of Khosrow I (531-579), Codification of Zoroastrianism, Byzantine-Sasanian wars (602-628)",2910
-Persian Empire,Islamic,Solar,651,1925,Islamic Period,3,"Arab conquest of Persia (651), Safavid Dynasty (1501-1736), Constitutional Revolution (1905-1911)",3337
-Persian Empire,Gregorian,Solar,1925,2024,Modern Iran,2,"Pahlavi Dynasty (1925-1979), Iranian Revolution (1979), Nuclear deal and sanctions (2015-present)",4611
-Japanese,Japanese,Lunisolar,710,794,Nara Period,3,"Founding of Nara as capital (710), compilation of Kojiki (712), Great Buddha of Todaiji Temple (752)",3396
-Japanese,Japanese,Lunisolar,794,1185,Heian Period,4,"Tale of Genji written (1000), development of kana writing system (9th century), rise of the samurai class",3480
-Japanese,Japanese,Lunisolar,1603,1868,Edo Period,3,"Sakoku isolation policy (1639), development of kabuki theater (early 17th century), rise of merchant class",4289
-Japanese,Gregorian,Solar,1868,1945,Imperial Japan,4,"Meiji Restoration (1868), First Sino-Japanese War (1894-1895), Russo-Japanese War (1904-1905)",4554
-Japanese,Gregorian,Solar,1945,2024,Post-war Japan,5,"Allied occupation (1945-1952), Economic miracle (1960s-1980s), Heisei and Reiwa eras (1989-present)",4631
-Inca Empire,Inca,Solar,1438,1533,Imperial Phase,4,"Reign of Pachacuti (1438-1471), Construction of Machu Picchu (1450), Expansion of Qhapaq Ñan road system",4124
-Aztec Empire,Aztec,Solar,1428,1521,Triple Alliance Period,4,"Founding of Tenochtitlan (1325), Construction of Templo Mayor (1325-1519), Reign of Montezuma II (1502-1520)",4114
-Ancient Greece,Attic,Lunisolar,-500,-323,Classical Period,5,"Golden Age of Athens (461-429 BCE), Construction of Parthenon (447-432 BCE), Peloponnesian War (431-404 BCE)",2186
-Ancient Greece,Attic,Lunisolar,-323,-146,Hellenistic Period,3,"Founding of Alexandria (331 BCE), Development of Hellenistic philosophy, Archimedes' scientific discoveries (287-212 BCE)",2363
-Roman Empire,Julian,Solar,-27,476,Roman Empire,5,"Pax Romana (27 BCE - 180 CE), Construction of Colosseum (70-80 CE), Edict of Milan (313 CE)",2659
-Khmer Empire,Hindu,Solar,802,1431,Angkorian Period,4,"Construction of Angkor Wat (1113-1150), Reign of Jayavarman VII (1181-1218), Development of complex irrigation systems",3488
-Ottoman Empire,Islamic/Julian,Lunisolar,1299,1683,Rise and Classical Age,4,"Conquest of Constantinople (1453), Siege of Vienna (1529), Reign of Suleiman the Magnificent (1520-1566)",3985
-Ottoman Empire,Islamic/Julian,Lunisolar,1683,1922,Decline and Dissolution,-2,"Treaty of Karlowitz (1699), Tanzimat reforms (1839-1876), Young Turk Revolution (1908)",4369
-Russian Empire,Julian,Solar,882,1547,Kievan Rus' and Muscovite,2,"Christianization of Kievan Rus' (988), Mongol invasion (1237-1240), Rise of Moscow (14th-15th centuries)",3568
-Russian Empire,Julian,Solar,1547,1721,Tsardom of Russia,3,"Time of Troubles (1598-1613), Reign of Ivan the Terrible (1547-1584), Reforms of Peter the Great (1682-1725)",4233
-Russian Empire,Julian,Solar,1721,1917,Imperial Period,3,"Napoleonic Wars (1803-1815), Emancipation of the serfs (1861), Russian Revolution (1917)",4407
-Russian Empire,Gregorian,Solar,1917,1991,Soviet Period,2,"October Revolution (1917), Stalin's Five-Year Plans (1928-1953), Space Race (1955-1975)",4603
-Russian Empire,Gregorian,Solar,1991,2024,Modern Russia,1,"Dissolution of Soviet Union (1991), Yeltsin's presidency (1991-1999), Putin era (2000-present)",4677
-Polynesian,Lunar,Lunar,300,1100,Settlement Phase,3,"Settlement of Easter Island (700-800), Development of navigation techniques, Colonization of Hawaii (300-800)",2986
-Polynesian,Lunar,Lunar,1100,1800,Expansion Phase,4,"Development of Polynesian cultures, Construction of Moai on Easter Island (1100-1680), European contact (18th century)",3786
-Polynesian,Gregorian,Solar,1800,2024,Modern Period,2,"Christian missionaries arrive (early 19th century), Colonization by European powers, Independence movements (20th-21st centuries)",4486
-Mali Empire,Islamic,Lunar,1235,1670,Imperial Period,4,"Reign of Mansa Musa (1312-1337), Timbuktu becomes center of Islamic learning, Trans-Saharan trade flourishes",3921
-Mongol Empire,Traditional Mongolian,Lunisolar,1206,1368,Imperial Period,5,"Genghis Khan unites Mongol tribes (1206), Conquest of China (1271), Establishment of Silk Road trade network",3892
-Viking Age,Norse,Solar,793,1066,Expansion Period,3,"Raid on Lindisfarne (793), Settlement of Iceland (874), Battle of Stamford Bridge (1066)",3479
-Austro-Hungarian Empire,Gregorian,Solar,1867,1918,Dual Monarchy,3,"Austro-Hungarian Compromise (1867), Annexation of Bosnia and Herzegovina (1908), Assassination of Archduke Franz Ferdinand (1914)",4553
-United States,Gregorian,Solar,1776,2024,Modern Period,5,"Declaration of Independence (1776), Civil War (1861-1865), World War II (1941-1945), Moon landing (1969)",4462
-Khazar Empire,Jewish/Turkic,Lunisolar,650,1048,Khazar Khaganate,4,"Conversion to Judaism (740-800), Battle of Itil (737), Defeat by Kievan Rus' (965-969)",3336
-Roman Empire,Roman Republican,Solar,-509,-27,Roman Republic,4,"Founding of the Roman Republic (-509), Punic Wars (-264 to -146), Assassination of Julius Caesar (-44)",2177
-Roman Empire,Julian,Solar,-27,14,Augustan Age,5,"Octavian becomes Augustus (-27), Pax Romana begins, Golden Age of Latin literature",2659
-Roman Empire,Julian,Solar,14,180,Pax Romana,5,"Reign of the Five Good Emperors (96-180), Construction of Hadrian's Wall (122), Peak of Roman territorial extent",2700
-Roman Empire,Julian,Solar,180,284,Crisis of the Third Century,-2,"Year of the Five Emperors (193), Plague of Cyprian (249-262), Division of the Empire (285)",2866
-Roman Empire,Julian,Solar,284,476,Late Empire,1,"Diocletian's reforms (284-305), Constantine's conversion to Christianity (312), Fall of the Western Roman Empire (476)",2970
-Roman Empire (Byzantine),Julian/Gregorian,Solar,476,1453,Byzantine Empire,3,"Justinian's reconquest (533-554), Islamic conquests (7th century), Fall of Constantinople (1453)",3162
-Carthaginian Empire,Phoenician,Lunisolar,-814,-146,Punic Period,4,"Founding of Carthage (-814), Sicilian Wars (-480 to -307), Punic Wars (-264 to -146)",1872
-Seleucid Empire,Seleucid Era,Lunisolar,-312,-63,Hellenistic Period,3,"Battle of Ipsus (-301), Reign of Antiochus III (-223 to -187), Roman conquest of Syria (-63)",2374
-Parthian Empire,Zoroastrian,Solar,-247,224,Arsacid Dynasty,4,"Defeat of Seleucids (-238), Battle of Carrhae (-53), Wars with Rome (54-217 CE)",2439
-Gupta Empire,Hindu calendar,Lunisolar,320,550,Golden Age,5,"Reign of Chandragupta I (320-335), Reign of Samudragupta (335-380), Scientific and artistic achievements",3006
-Sasanian Empire,Zoroastrian,Solar,224,651,Sasanian Era,4,"Battle of Hormizdagan (224), Reforms of Khosrow I (531-579), Muslim conquest of Persia (633-654)",2910
-Umayyad Caliphate,Islamic,Lunar,661,750,Early Islamic Period,4,"Battle of Karbala (680), Conquest of Hispania (711-718), Siege of Constantinople (717-718)",3347
-Abbasid Caliphate,Islamic,Lunar,750,1258,Islamic Golden Age,5,"Foundation of Baghdad (762), House of Wisdom established (830), Mongol sack of Baghdad (1258)",3436
-Tang Dynasty,Chinese,Lunisolar,618,907,Imperial China,5,"Reign of Emperor Taizong (626-649), An Lushan Rebellion (755-763), Invention of gunpowder (9th century)",3304
-Song Dynasty,Chinese,Lunisolar,960,1279,Imperial China,4,"Neo-Confucianism develops, Economic revolution, Invention of movable type printing (1040)",3646
-Toltec Empire,Mesoamerican,Solar,900,1150,Classical Mesoamerica,3,"Founding of Tula (900), Reign of Ce Acatl Topiltzin Quetzalcoatl (980-1000), Collapse of Tula (1150)",3586
-Srivijaya Empire,Saka Era,Solar,650,1377,Classical Southeast Asia,4,"Control of Strait of Malacca trade, Expansion into Java and Sumatra, Chola invasion (1025)",3336
-Ghana Empire,Traditional African,Solar,300,1100,Medieval West Africa,3,"Trans-Saharan trade dominance, Introduction of Islam (1000), Almoravid conquest (1076)",2986
-Chola Empire,Tamil,Solar,848,1279,Medieval India,4,"Naval expeditions to Southeast Asia (1025), Construction of Brihadeeswarar Temple (1010), Literary renaissance",3534
+"Western Europe","Gregorian","Solar",476,800,"Early Middle Ages",-3,"Fall of Western Roman Empire (476), Founding of Frankish Kingdom (481), Battle of Tours (732)",-2210
+"Western Europe","Gregorian","Solar",800,1200,"High Middle Ages",3,"Coronation of Charlemagne (800), First Crusade (1095), Magna Carta (1215)",-1886
+"Western Europe","Gregorian","Solar",1200,1500,"Late Middle Ages",2,"Black Death (1347-1351), Hundred Years' War (1337-1453), Fall of Constantinople (1453)",-1439
+"Western Europe","Gregorian","Solar",1500,1800,"Early Modern Period",4,"Renaissance (1400-1600), Protestant Reformation (1517), Scientific Revolution (1543-1687)",-1139
+"Western Europe","Gregorian","Solar",1800,2024,"Modern Period",5,"Industrial Revolution (1760-1840), World Wars (1914-1945), European Union formation (1993)",4710
+"Mayan","Long Count","Solar",250,900,"Classical Period",4,"Construction of Tikal (250-900), Peak of Mayan astronomy and mathematics (500-800), Development of complex writing system (300-900)",-2436
+"Mayan","Long Count","Solar",900,1000,"Post-Classical Period",-4,"Abandonment of major cities (800-900), Collapse of Classic Maya civilization (900), Chichen Itza becomes dominant power (987)",-1786
+"Mayan","Long Count","Solar",1000,1697,"Post-Classic Period",2,"Rise of new city-states (1000-1200), Spanish conquest begins (1519), Fall of last Mayan city-state Nojpetén (1697)",-1686
+"Chinese","Traditional","Lunisolar",220,589,"Period of Disunity",-2,"Fall of Han Dynasty (220), Invention of kites (549), Construction of Yungang Grottoes (460-494)",-2466
+"Chinese","Traditional","Lunisolar",589,907,"Tang Dynasty",4,"Founding of Tang Dynasty (618), Invention of woodblock printing (700), An Lushan Rebellion (755-763)",-2097
+"Chinese","Traditional","Lunisolar",907,1368,"Song to Yuan Dynasties",3,"Invention of gunpowder (850), Neo-Confucian philosophy develops (1000-1200), Mongol conquest of China (1271)",-1779
+"Chinese","Traditional","Lunisolar",1368,1912,"Ming and Qing Dynasties",4,"Construction of Forbidden City (1406-1420), Zheng He's voyages (1405-1433), Opium Wars (1839-1860)",-1318
+"Chinese","Gregorian","Solar",1912,2024,"Modern China",3,"Republic of China established (1912), People's Republic of China founded (1949), Economic reforms (1978-present)",4698
+"Indian","Vikram Samvat","Lunisolar",300,550,"Gupta Empire",5,"Reign of Chandragupta II (380-415), Writing of the Kamasutra (400-450), Invention of decimal system (500)",-2386
+"Indian","Vikram Samvat","Lunisolar",550,750,"Post-Gupta Period",-2,"Decline of Gupta Empire (550), Rise of regional kingdoms (600-750), Arab invasion of Sindh (712)",-2136
+"Indian","Vikram Samvat","Lunisolar",750,1000,"Early Medieval Period",2,"Rise of Rajput dynasties (750-1000), Development of Tantric Buddhism (800-900), Construction of Khajuraho temples (950-1050)",-1936
+"Indian","Gregorian","Solar",1000,1857,"Medieval to Mughal Period",3,"Delhi Sultanate established (1206), Mughal Empire founded (1526), Taj Mahal constructed (1632-1653)",-1686
+"Indian","Gregorian","Solar",1857,2024,"British Raj to Modern India",4,"Indian Rebellion (1857), Indian Independence (1947), Economic liberalization (1991)",4710
+"Islamic World","Hijri","Lunar",750,1258,"Islamic Golden Age",5,"House of Wisdom in Baghdad (830), Islamic medical advances (900-1100), Algebra developed by Al-Khwarizmi (820)",-1936
+"Islamic World","Hijri","Lunar",1258,1400,"Post-Abbasid Period",-3,"Sack of Baghdad by Mongols (1258), Mamluks defeat Mongols at Ain Jalut (1260), Timur's conquests (1370-1405)",-1428
+"Islamic World","Hijri","Lunar",1400,1924,"Ottoman Caliphate",3,"Fall of Constantinople (1453), Siege of Vienna (1683), Tanzimat reforms (1839-1876)",-1286
+"Islamic World","Gregorian","Solar",1924,2024,"Modern Islamic World",2,"Abolition of Ottoman Caliphate (1924), Iranian Revolution (1979), Arab Spring (2010-2012)",4710
+"Byzantine","Julian","Solar",395,610,"Byzantine Renaissance",3,"Reign of Justinian I (527-565), Hagia Sophia constructed (537), Corpus Juris Civilis compiled (529-534)",-2291
+"Byzantine","Julian","Solar",610,1453,"Gradual Decline",-2,"Battle of Manzikert (1071), Fourth Crusade sacks Constantinople (1204), Fall of Constantinople to Ottomans (1453)",-2076
+"Ancient Egypt","Egyptian","Solar",-2686,-2181,"Old Kingdom",4,"Great Pyramid of Giza built (2560 BCE), Step Pyramid of Djoser built (2630 BCE), Development of hieroglyphic writing (3200 BCE)",0
+"Ancient Egypt","Egyptian","Solar",-2055,-1650,"Middle Kingdom",3,"Reunification under Mentuhotep II (2055 BCE), Construction of pyramids at Dahshur (1932-1841 BCE), Development of literature and art",631
+"Ancient Egypt","Egyptian","Solar",-1550,-1069,"New Kingdom",5,"Reign of Ramesses II (1279-1213 BCE), Battle of Kadesh (1274 BCE), Construction of Abu Simbel temples (1264-1244 BCE)",1136
+"Ancient Egypt","Egyptian","Solar",-1069,-332,"Late Period",1,"Third Intermediate Period (1069-664 BCE), Persian conquest (525 BCE), Alexander the Great's conquest (332 BCE)",1617
+"Mesopotamia","Babylonian","Lunisolar",-2900,-2334,"Early Dynastic Period",3,"Invention of writing (3200 BCE), Construction of ziggurats (2900 BCE), Development of city-states (2900-2350 BCE)",-214
+"Mesopotamia","Babylonian","Lunisolar",-2334,-2154,"Akkadian Empire",4,"Reign of Sargon of Akkad (2334-2279 BCE), First known empire in history, Development of postal system",352
+"Mesopotamia","Babylonian","Lunisolar",-626,-539,"Neo-Babylonian Empire",4,"Construction of Ishtar Gate (575 BCE), Reign of Nebuchadnezzar II (605-562 BCE), Hanging Gardens of Babylon (600 BCE)",2060
+"Mesopotamia","Babylonian","Lunisolar",-539,-331,"Persian Period",3,"Cyrus the Great conquers Babylon (539 BCE), Behistun Inscription carved (520-518 BCE), Alexander the Great conquers Persia (331 BCE)",2147
+"Persian Empire","Zoroastrian","Solar",-550,-330,"Achaemenid Empire",5,"Reign of Cyrus the Great (559-530 BCE), Construction of Persepolis (518 BCE), Royal Road built (500 BCE)",2136
+"Persian Empire","Zoroastrian","Solar",-247,224,"Parthian Empire",3,"Battle of Carrhae (53 BCE), Development of heavy cavalry, Trade along Silk Road flourishes",2439
+"Persian Empire","Zoroastrian","Solar",224,651,"Sasanian Empire",4,"Reign of Khosrow I (531-579), Codification of Zoroastrianism, Byzantine-Sasanian wars (602-628)",2910
+"Persian Empire","Islamic","Solar",651,1925,"Islamic Period",3,"Arab conquest of Persia (651), Safavid Dynasty (1501-1736), Constitutional Revolution (1905-1911)",3337
+"Persian Empire","Gregorian","Solar",1925,2024,"Modern Iran",2,"Pahlavi Dynasty (1925-1979), Iranian Revolution (1979), Nuclear deal and sanctions (2015-present)",4611
+"Japanese","Japanese","Lunisolar",710,794,"Nara Period",3,"Founding of Nara as capital (710), compilation of Kojiki (712), Great Buddha of Todaiji Temple (752)",3396
+"Japanese","Japanese","Lunisolar",794,1185,"Heian Period",4,"Tale of Genji written (1000), development of kana writing system (9th century), rise of the samurai class",3480
+"Japanese","Japanese","Lunisolar",1603,1868,"Edo Period",3,"Sakoku isolation policy (1639), development of kabuki theater (early 17th century), rise of merchant class",4289
+"Japanese","Gregorian","Solar",1868,1945,"Imperial Japan",4,"Meiji Restoration (1868), First Sino-Japanese War (1894-1895), Russo-Japanese War (1904-1905)",4554
+"Japanese","Gregorian","Solar",1945,2024,"Post-war Japan",5,"Allied occupation (1945-1952), Economic miracle (1960s-1980s), Heisei and Reiwa eras (1989-present)",4631
+"Inca Empire","Inca","Solar",1438,1533,"Imperial Phase",4,"Reign of Pachacuti (1438-1471), Construction of Machu Picchu (1450), Expansion of Qhapaq Ñan road system",4124
+"Aztec Empire","Aztec","Solar",1428,1521,"Triple Alliance Period",4,"Founding of Tenochtitlan (1325), Construction of Templo Mayor (1325-1519), Reign of Montezuma II (1502-1520)",4114
+"Ancient Greece","Attic","Lunisolar",-500,-323,"Classical Period",5,"Golden Age of Athens (461-429 BCE), Construction of Parthenon (447-432 BCE), Peloponnesian War (431-404 BCE)",2186
+"Ancient Greece","Attic","Lunisolar",-323,-146,"Hellenistic Period",3,"Founding of Alexandria (331 BCE), Development of Hellenistic philosophy, Archimedes' scientific discoveries (287-212 BCE)",2363
+"Roman Empire","Julian","Solar",-27,476,"Roman Empire",5,"Pax Romana (27 BCE - 180 CE), Construction of Colosseum (70-80 CE), Edict of Milan (313 CE)",2659
+"Khmer Empire","Hindu","Solar",802,1431,"Angkorian Period",4,"Construction of Angkor Wat (1113-1150), Reign of Jayavarman VII (1181-1218), Development of complex irrigation systems",3488
+"Ottoman Empire","Islamic/Julian","Lunisolar",1299,1683,"Rise and Classical Age",4,"Conquest of Constantinople (1453), Siege of Vienna (1529), Reign of Suleiman the Magnificent (1520-1566)",3985
+"Ottoman Empire","Islamic/Julian","Lunisolar",1683,1922,"Decline and Dissolution",-2,"Treaty of Karlowitz (1699), Tanzimat reforms (1839-1876), Young Turk Revolution (1908)",4369
+"Russian Empire","Julian","Solar",882,1547,"Kievan Rus' and Muscovite",2,"Christianization of Kievan Rus' (988), Mongol invasion (1237-1240), Rise of Moscow (14th-15th centuries)",3568
+"Russian Empire","Julian","Solar",1547,1721,"Tsardom of Russia",3,"Time of Troubles (1598-1613), Reign of Ivan the Terrible (1547-1584), Reforms of Peter the Great (1682-1725)",4233
+"Russian Empire","Julian","Solar",1721,1917,"Imperial Period",3,"Napoleonic Wars (1803-1815), Emancipation of the serfs (1861), Russian Revolution (1917)",4407
+"Russian Empire","Gregorian","Solar",1917,1991,"Soviet Period",2,"October Revolution (1917), Stalin's Five-Year Plans (1928-1953), Space Race (1955-1975)",4603
+"Russian Empire","Gregorian","Solar",1991,2024,"Modern Russia",1,"Dissolution of Soviet Union (1991), Yeltsin's presidency (1991-1999), Putin era (2000-present)",4677
+"Polynesian","Lunar","Lunar",300,1100,"Settlement Phase",3,"Settlement of Easter Island (700-800), Development of navigation techniques, Colonization of Hawaii (300-800)",2986
+"Polynesian","Lunar","Lunar",1100,1800,"Expansion Phase",4,"Development of Polynesian cultures, Construction of Moai on Easter Island (1100-1680), European contact (18th century)",3786
+"Polynesian","Gregorian","Solar",1800,2024,"Modern Period",2,"Christian missionaries arrive (early 19th century), Colonization by European powers, Independence movements (20th-21st centuries)",4486
+"Mali Empire","Islamic","Lunar",1235,1670,"Imperial Period",4,"Reign of Mansa Musa (1312-1337), Timbuktu becomes center of Islamic learning, Trans-Saharan trade flourishes",3921
+"Mongol Empire","Traditional Mongolian","Lunisolar",1206,1368,"Imperial Period",5,"Genghis Khan unites Mongol tribes (1206), Conquest of China (1271), Establishment of Silk Road trade network",3892
+"Viking Age","Norse","Solar",793,1066,"Expansion Period",3,"Raid on Lindisfarne (793), Settlement of Iceland (874), Battle of Stamford Bridge (1066)",3479
+"Austro-Hungarian Empire","Gregorian","Solar",1867,1918,"Dual Monarchy",3,"Austro-Hungarian Compromise (1867), Annexation of Bosnia and Herzegovina (1908), Assassination of Archduke Franz Ferdinand (1914)",4553
+"United States","Gregorian","Solar",1776,2024,"Modern Period",5,"Declaration of Independence (1776), Civil War (1861-1865), World War II (1941-1945), Moon landing (1969)",4462
+"Khazar Empire","Jewish/Turkic","Lunisolar",650,1048,"Khazar Khaganate",4,"Conversion to Judaism (740-800), Battle of Itil (737), Defeat by Kievan Rus' (965-969)",3336
+"Roman Empire","Roman Republican","Solar",-509,-27,"Roman Republic",4,"Founding of the Roman Republic (-509), Punic Wars (-264 to -146), Assassination of Julius Caesar (-44)",2177
+"Roman Empire","Julian","Solar",-27,14,"Augustan Age",5,"Octavian becomes Augustus (-27), Pax Romana begins, Golden Age of Latin literature",2659
+"Roman Empire","Julian","Solar",14,180,"Pax Romana",5,"Reign of the Five Good Emperors (96-180), Construction of Hadrian's Wall (122), Peak of Roman territorial extent",2700
+"Roman Empire","Julian","Solar",180,284,"Crisis of the Third Century",-2,"Year of the Five Emperors (193), Plague of Cyprian (249-262), Division of the Empire (285)",2866
+"Roman Empire","Julian","Solar",284,476,"Late Empire",1,"Diocletian's reforms (284-305), Constantine's conversion to Christianity (312), Fall of the Western Roman Empire (476)",2970
+"Roman Empire (Byzantine)","Julian/Gregorian","Solar",476,1453,"Byzantine Empire",3,"Justinian's reconquest (533-554), Islamic conquests (7th century), Fall of Constantinople (1453)",3162
+"Carthaginian Empire","Phoenician","Lunisolar",-814,-146,"Punic Period",4,"Founding of Carthage (-814), Sicilian Wars (-480 to -307), Punic Wars (-264 to -146)",1872
+"Seleucid Empire","Seleucid Era","Lunisolar",-312,-63,"Hellenistic Period",3,"Battle of Ipsus (-301), Reign of Antiochus III (-223 to -187), Roman conquest of Syria (-63)",2374
+"Parthian Empire","Zoroastrian","Solar",-247,224,"Arsacid Dynasty",4,"Defeat of Seleucids (-238), Battle of Carrhae (-53), Wars with Rome (54-217 CE)",2439
+"Gupta Empire","Hindu calendar","Lunisolar",320,550,"Golden Age",5,"Reign of Chandragupta I (320-335), Reign of Samudragupta (335-380), Scientific and artistic achievements",3006
+"Sasanian Empire","Zoroastrian","Solar",224,651,"Sasanian Era",4,"Battle of Hormizdagan (224), Reforms of Khosrow I (531-579), Muslim conquest of Persia (633-654)",2910
+"Umayyad Caliphate","Islamic","Lunar",661,750,"Early Islamic Period",4,"Battle of Karbala (680), Conquest of Hispania (711-718), Siege of Constantinople (717-718)",3347
+"Abbasid Caliphate","Islamic","Lunar",750,1258,"Islamic Golden Age",5,"Foundation of Baghdad (762), House of Wisdom established (830), Mongol sack of Baghdad (1258)",3436
+"Tang Dynasty","Chinese","Lunisolar",618,907,"Imperial China",5,"Reign of Emperor Taizong (626-649), An Lushan Rebellion (755-763), Invention of gunpowder (9th century)",3304
+"Song Dynasty","Chinese","Lunisolar",960,1279,"Imperial China",4,"Neo-Confucianism develops, Economic revolution, Invention of movable type printing (1040)",3646
+"Toltec Empire","Mesoamerican","Solar",900,1150,"Classical Mesoamerica",3,"Founding of Tula (900), Reign of Ce Acatl Topiltzin Quetzalcoatl (980-1000), Collapse of Tula (1150)",3586
+"Srivijaya Empire","Saka Era","Solar",650,1377,"Classical Southeast Asia",4,"Control of Strait of Malacca trade, Expansion into Java and Sumatra, Chola invasion (1025)",3336
+"Ghana Empire","Traditional African","Solar",300,1100,"Medieval West Africa",3,"Trans-Saharan trade dominance, Introduction of Islam (1000), Almoravid conquest (1076)",2986
+"Chola Empire","Tamil","Solar",848,1279,"Medieval India",4,"Naval expeditions to Southeast Asia (1025), Construction of Brihadeeswarar Temple (1010), Literary renaissance",3534
