@@ -106,6 +106,7 @@ const CivilizationChart: React.FC<CivilizationChartProps> = ({ data }) => {
       const calendarTypes = Array.from(
         new Set(bubbleData.map((d) => d.calendarType))
       );
+
       const patternScale = d3
         .scaleOrdinal<string>()
         .domain(calendarTypes)
@@ -327,7 +328,7 @@ const CivilizationChart: React.FC<CivilizationChartProps> = ({ data }) => {
         .text((d) => d);
 
       // Function to show tooltip
-      const showTooltip = (event: MouseEvent, d: BubbleData) => {
+      const showTooltip = (_event: MouseEvent, d: BubbleData) => {
         showCivilizationTooltips(d.civilization);
       };
 
@@ -358,11 +359,9 @@ const CivilizationChart: React.FC<CivilizationChartProps> = ({ data }) => {
 
       // Function to highlight a civilization
       const highlightCivilization = (civilization: string) => {
-        svg
-          .selectAll("circle")
-          .attr("opacity", (d: BubbleData) =>
-            d.civilization === civilization ? 1 : 0.3
-          );
+        svg.selectAll("circle").attr("opacity", function (d) {
+          return (d as BubbleData).civilization === civilization ? 1 : 0.3;
+        });
 
         svg
           .selectAll("path")

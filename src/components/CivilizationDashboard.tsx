@@ -28,7 +28,7 @@ const CivilizationDashboard: React.FC = () => {
               setCivilizations(results.data);
             }
           },
-          error: (error) => {
+          error: (error: { message: string }) => {
             setError(`CSV parsing error: ${error.message}`);
           },
         });

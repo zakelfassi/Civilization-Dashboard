@@ -22,9 +22,11 @@ export function createPattern(calendarType: string, index: number): string {
     "M0,0 L3,5 L0,10 M10,0 L7,5 L10,10 M3,0 L7,10 M7,0 L3,10", // Star
   ];
 
-  if (calendarType.toLowerCase().includes("solar")) {
+  const lowerCalendarType = calendarType.toLowerCase();
+
+  if (lowerCalendarType.includes("solar")) {
     return sunPattern;
-  } else if (calendarType.toLowerCase().includes("lunar")) {
+  } else if (lowerCalendarType.includes("lunar")) {
     return moonPattern;
   } else {
     return basePatterns[index % basePatterns.length];
