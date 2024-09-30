@@ -107,8 +107,7 @@ const CivilizationChart: React.FC<CivilizationChartProps> = ({ data }) => {
         new Set(bubbleData.map((d) => d.calendarType))
       );
 
-      const patternScale = d3
-        .scaleOrdinal<string>()
+      d3.scaleOrdinal<string>()
         .domain(calendarTypes)
         .range(
           calendarTypes.map((type) =>
@@ -364,11 +363,11 @@ const CivilizationChart: React.FC<CivilizationChartProps> = ({ data }) => {
         });
 
         svg
-          .selectAll("path")
-          .attr("stroke-opacity", (d: BubbleData[] | null) =>
+          .selectAll<SVGPathElement, BubbleData[] | null>("path")
+          .attr("stroke-opacity", (d) =>
             d && d.length > 0 && d[0].civilization === civilization ? 1 : 0.3
           )
-          .attr("stroke-width", (d: BubbleData[] | null) => {
+          .attr("stroke-width", (d) => {
             if (!d || d.length === 0) return lineWeightScale(0);
             const civilizationLifespan =
               civilizationLifespans.get(d[0].civilization) || 0;
@@ -380,7 +379,9 @@ const CivilizationChart: React.FC<CivilizationChartProps> = ({ data }) => {
         // Keep the bubbles of the hovered civilization at 100% opacity
         svg
           .selectAll("circle")
-          .filter((d: BubbleData) => d.civilization === civilization)
+          .filter(function (d) {
+            return (d as BubbleData).civilization === civilization;
+          })
           .attr("opacity", 1);
 
         showCivilizationTooltips(civilization);
@@ -390,7 +391,7 @@ const CivilizationChart: React.FC<CivilizationChartProps> = ({ data }) => {
       const resetHighlight = () => {
         svg.selectAll("circle").attr("opacity", 0.7);
         svg
-          .selectAll("path")
+          .selectAll<SVGPathElement, BubbleData[] | null>("path")
           .attr("stroke-opacity", 0.7)
           .attr("stroke-width", (d: BubbleData[] | null) => {
             if (!d || d.length === 0) return lineWeightScale(0);
@@ -449,15 +450,15 @@ const CivilizationChart: React.FC<CivilizationChartProps> = ({ data }) => {
 
     // Update visibility of lines
     svg
-      .selectAll("path.civilization-line")
-      .attr("visibility", (d: any) =>
+      .selectAll<SVGPathElement, BubbleData[]>("path.civilization-line")
+      .attr("visibility", (d) =>
         visibleCivilizations.has(d[0].civilization) ? "visible" : "hidden"
       );
 
     // Update visibility of circles
     svg
-      .selectAll("circle.civilization-node")
-      .attr("visibility", (d: any) =>
+      .selectAll<SVGCircleElement, BubbleData>("circle.civilization-node")
+      .attr("visibility", (d) =>
         visibleCivilizations.has(d.civilization) ? "visible" : "hidden"
       );
   }, [visibleCivilizations]);
