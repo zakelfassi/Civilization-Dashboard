@@ -440,7 +440,12 @@ const CivilizationChart: React.FC<CivilizationChartProps> = ({ data }) => {
     return () => {
       resizeObserver.disconnect();
     };
-  }, [data, highlightedCivilization]);
+  }, [
+    data,
+    highlightedCivilization,
+    civilizationColorScale,
+    visibleCivilizations,
+  ]);
 
   // New effect to handle visibility changes
   useEffect(() => {
